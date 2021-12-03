@@ -1,6 +1,6 @@
 # ‹div›RIOTS cake 🍰 recipe
 
-As we like to open-source everything, we're gladly opening the source of our awesome <div>RIOTS cake 🍰 !
+As we like to open-source everything, we're gladly opening the source of our awesome ‹div›RIOT cake 🍰 !
   
 ![cake](https://user-images.githubusercontent.com/471486/144645750-b5115664-2adc-4c1f-8f3e-0ddca1d99404.jpg)
 
@@ -39,7 +39,7 @@ Ingredients
 
 5. Preheat your oven at 350°F (that's 170°C for Europeans)
 
-6. Now the tricky part: print our awesome cake-blueprint (told you you needed a printer) and lay on a previously buttered plate the dough with a piping bag, somehow following the blueprint, in a perfect <div>RIOTS shape.
+6. Now the tricky part: print our awesome cake-blueprint (told you you needed a printer) and lay on a previously buttered plate the dough with a piping bag, somehow following the blueprint, in a perfect ‹div›RIOT shape.
 
    ![cake-blueprint](https://user-images.githubusercontent.com/471486/144645780-c714d17d-7be3-4984-a3bc-0935ca1ed48f.jpg)
 
