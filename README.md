@@ -24,7 +24,7 @@ Ingredients
 1 tsp of salt
 1 tsp of cinnamon
 1 egg white
-225g Flower
+225g Flour
 ```
 
 ## How to hack it together
@@ -35,7 +35,7 @@ Ingredients
 
 3. Add the egg white until fully blended. If you are asking yourself how to separate an egg white, well, a million person shared your thought according to the views of the well named [How To Separate Egg Whites](https://www.youtube.com/watch?v=t-OwbEy-Vxk)
 
-4. Add the flower and blend
+4. Add the flour and blend
 
 5. Preheat your oven at 350°F (that's 170°C for Europeans)
 
