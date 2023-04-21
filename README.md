@@ -35,13 +35,15 @@ Vegaized Ingredient Swaps
 
    Chia Seed Egg - 1 tbsp chia seeds + 2.5 tbsp water
    Flax Seed Egg - 1 tbsp flax seed (ground, raw) + 2.5 tbsp water
-   For both of these mix the seeds with the water, mix / tiny whisk and leave for around 5 mins to thicken a little.
+   For both of these mix the seeds with the water, mix / tiny whisk and leave for around 5 mins
+   to thicken a little.
 
    Applesauce (mashed) / Mashed ripe banana - around 3 or 4 tbsp of either.
 
    Egg replacer - Store bought replacer (Oggs is good for those in the UK)
 
-Method and timings are as standard ingredients. So now the whole team can chomp on the sugary goodness.
+Method and timings are as standard ingredients.
+So now the whole team can chomp on the sugary goodness.
 ```
 
 ## How to hack it together
