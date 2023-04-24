@@ -1,7 +1,7 @@
 # ‹div›RIOTS cake 🍰 recipe
 
 As we like to open-source everything, we're gladly opening the source of our awesome ‹div›RIOTS cake 🍰 !
-  
+
 ![cake](https://user-images.githubusercontent.com/471486/144645750-b5115664-2adc-4c1f-8f3e-0ddca1d99404.jpg)
 
 ## What you need
@@ -27,6 +27,25 @@ Ingredients
 225g Flour
 ```
 
+Vegaized Ingredient Swaps
+
+```txt
+190g softened butter => 190g vegan butter / spread (that on was easy and some may say obvious)
+1 egg white => Here you have options (any of these, results may vary).
+
+   Chia Seed Egg - 1 tbsp chia seeds + 2.5 tbsp water
+   Flax Seed Egg - 1 tbsp flax seed (ground, raw) + 2.5 tbsp water
+   For both of these mix the seeds with the water, mix / tiny whisk and leave for around 5 mins
+   to thicken a little.
+
+   Applesauce (mashed) / Mashed ripe banana - around 3 or 4 tbsp of either.
+
+   Egg replacer - Store bought replacer (Oggs is good for those in the UK)
+
+Method and timings are as standard ingredients.
+So now the whole team can chomp on the sugary goodness.
+```
+
 ## How to hack it together
 
 1. Scrape the vanilla pod using a paring knife to slice the pod in half (we should have told you about the knife in our list of kitchen stuff, sorry about that, we hope you have one around) once the pod opens, use the back of the said knife to scrape the seed away from the pod. We will be using the seeds, not the pod. Although you can re-use the pod for other things, we will stay focused on our fancy recipe for now.
@@ -46,3 +65,7 @@ Ingredients
    ☣️ Don't lay the dough directly on the blueprint though, the paper could catch fire in the oven and burn your house down, that or your cake would taste funny, anyhow: don't.
 
 7. Bake for 20 minutes, cross fingers 🤞
+
+```
+
+```
